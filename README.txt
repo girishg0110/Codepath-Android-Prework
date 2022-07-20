@@ -1,10 +1,10 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *HelloWorld*
 
-Submitted by: **Your Name Here**
+Submitted by: **Girish Ganesan**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
@@ -29,10 +29,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I encountered some challenges in understanding how the constraint system worked and how the code view correlated with the design view. I was able to resolve this for the sake of the prework just by rewatching the video walkthrough, and I found an online playlist for further study on the code/design approach to constraining Image and TextViews on Youtube afterwards.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Girish Ganesan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
