@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-#<img src='https://imgur.com/a/XOStCTU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src="https://i.imgur.com/a/XOStCTU.gif"/>
+![codepath-android-gif](https://user-images.githubusercontent.com/60169546/187090793-35454bae-dce3-421b-8165-6c09a034b191.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
